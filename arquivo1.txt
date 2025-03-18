@@ -1,6 +1,6 @@
 Faculdade Uniesp
 Curso: Ciência da Computação
-Disciplina: Tópicos Essenciais para Programação
+Disciplina: Introdução a Programação
 Nome: Allan Lucas de Assis Ribeiro
 
 Resposta Lista de Exercicio
@@ -13,3 +13,7 @@ Q5
 Q6
 Q7
 Q8
+Q9
+Q10
+Q11
+Q12
